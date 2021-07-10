@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Sandisk 32gb pendrive",
+        "price": 10,
+        "description": "This is a 32gb Sandisk 3.0 usb pendrive",
+        "rating": 4.7,
+        "images": [
+            {
+                "public_id": "products/r48hkwj38ow",
+                "url": "https://tse1.mm.bing.net/th?id=OIP.sRFZc3H0650lgCnFaPq3TgHaHa&pid=Api"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Deep Computers"
+    },
+    {
+        "name": "Sandisk 16gb pendrive",
+        "price": 6,
+        "description": "This is a 16gb Sandisk 3.0 usb pendrive",
+        "rating": 4.4,
+        "images": [
+            {
+                "public_id": "products/38utju3f298",
+                "url": "https://tse1.mm.bing.net/th?id=OIP.sRFZc3H0650lgCnFaPq3TgHaHa&pid=Api"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Gagan Electricals"
+    },
+    {
+        "name": "Sandisk 120gb pendrive",
+        "price": 25,
+        "description": "This is a 120gb Sandisk 3.0 usb pendrive",
+        "rating": 4.5,
+        "images": [
+            {
+                "public_id": "products/uf98wyen89w",
+                "url": "https://tse1.mm.bing.net/th?id=OIP.sRFZc3H0650lgCnFaPq3TgHaHa&pid=Api"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "D Mart"
+    },
+    {
+        "name": "Sandisk 4gb pendrive",
+        "price": 3,
+        "description": "This is a 4gb Sandisk 3.0 usb pendrive",
+        "rating": 4.7,
+        "images": [
+            {
+                "public_id": "products/hkuj45lik",
+                "url": "https://tse1.mm.bing.net/th?id=OIP.sRFZc3H0650lgCnFaPq3TgHaHa&pid=Api"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Vishal Mega Mart"
+    }
+]
